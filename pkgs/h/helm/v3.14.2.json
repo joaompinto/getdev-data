@@ -1,0 +1,9 @@
+{   
+    "linux": {
+        "amd64": {
+            "url": "https://get.helm.sh/helm-v3.14.2-linux-amd64.tar.gz",
+            "sha256": "7816d067740f47f949be826ac76943167b7b3a38c4f0c18b902fffa8779a5afa",
+            "bin": ["linux-amd64/helm"]
+        }
+    }
+} 
